@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+	<path>media/clothing/clothingItems/Corset.xml</path>
+	<guid>cc6da0b9-88e4-4095-903b-2a4cd5034e57</guid>
+	</files>
+	<files>
+	<path>media/clothing/clothingItems/BunnySuit.xml</path>
+	<guid>4504429a-f78a-4d1c-b2ff-cac01a2d434b</guid>
+	</files>
+	<files>
+	<path>media/clothing/clothingItems/Miniskirt.xml</path>
+	<guid>86d7cb00-de1b-4201-8f48-736c547255bb</guid>
+	</files>
+	<files>
+	<path>media/clothing/clothingItems/VeryLongGloves.xml</path>
+	<guid>dcdff6f9-f760-4488-af40-121cba556a57</guid>
+	</files>
+	<files>
+	<path>media/clothing/clothingItems/ThighHighSocks.xml</path>
+	<guid>a4407c30-5a4f-4eea-a788-921b2ae48ee6</guid>
+	</files>
+	<files>
+	<path>media/clothing/clothingItems/Shoes_ThighHighBoots.xml</path>
+	<guid>628f89b2-4274-4dba-bb82-fb4f97119fd3</guid>
+	</files>
+	<files>
+	<path>media/clothing/clothingItems/FoxTail.xml</path>
+	<guid>7b4c5039-eb74-4904-9cc7-44496ff54b0c</guid>
+	</files>
+	<files>
+	<path>media/clothing/clothingItems/FoxEars.xml</path>
+	<guid>4e78bfcf-ff9b-4095-8566-fcbb3811304f</guid>
+	</files>	
+	<files>
+	<path>media/clothing/clothingItems/KitsuneNineTail.xml</path>
+	<guid>33a5057b-d04a-4265-9bda-3453962407bd</guid>
+	</files>
+</fileGuidTable>

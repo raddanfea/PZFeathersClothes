@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\kitsuneninetail</m_MaleModel>
+	<m_FemaleModel>static\clothes\kitsuneninetail</m_FemaleModel>
+	<m_GUID>33a5057b-d04a-4265-9bda-3453962407bd</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\fox_tails\kitsuneninetail</textureChoices>
+</clothingItem>
