@@ -1,4 +1,4 @@
-### I do not currently develop the mod, but you can support it. 
+### I do not currently develop the mod anymore, but you can support it. 
 Feel free to create fixes and updates here.
 
 ### **Steam Location:**
