@@ -30,6 +30,7 @@ local clothing = {
   Socks = {"Base.ThighHighSocks",},       -- item
   Pants = {},       -- doesn't
   Skirt = {"Base.Microskirt",},       -- have
+  Skirt = {},       -- have
   Dress = {"Base.BunnySuit",},       -- a
   Shoes = {"Base.Shoes_ThighHighBoots",},       -- unique
   Eyes = {},        -- DisplayName
