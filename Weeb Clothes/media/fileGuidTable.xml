@@ -1,16 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <fileGuidTable>
+	<!--FEATHER FILES-->
 	<files>
-	<path>media/clothing/clothingItems/Corset.xml</path>
-	<guid>cc6da0b9-88e4-4095-903b-2a4cd5034e57</guid>
+	<path>media/clothing/clothingItems/Microskirt.xml</path>
+	<guid>86d7cb00-de1b-4201-8f48-736c547255bb</guid>
 	</files>
 	<files>
 	<path>media/clothing/clothingItems/BunnySuit.xml</path>
 	<guid>4504429a-f78a-4d1c-b2ff-cac01a2d434b</guid>
-	</files>
-	<files>
-	<path>media/clothing/clothingItems/Miniskirt.xml</path>
-	<guid>86d7cb00-de1b-4201-8f48-736c547255bb</guid>
 	</files>
 	<files>
 	<path>media/clothing/clothingItems/VeryLongGloves.xml</path>
@@ -36,4 +33,74 @@
 	<path>media/clothing/clothingItems/KitsuneNineTail.xml</path>
 	<guid>33a5057b-d04a-4265-9bda-3453962407bd</guid>
 	</files>
+	
+	<!--VANILLA FILES FOR ZOMBIE OUTFITS-->
+	<files>
+		<path>media/clothing/clothingItems/Glasses_Normal.xml</path>
+		<guid>6d702d88-4ca0-4bcb-9aee-d88f2be29e69</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/BellyButton_StudSilver.xml</path>
+		<guid>737d3d4c-6909-4392-81e7-1d429f94d67d</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/NoseRing_Silver.xml</path>
+		<guid>d59c01dd-6b0c-4686-af83-01dddc4b25ce</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Earring_Stud_Silver_Both.xml</path>
+		<guid>9221f803-d4ec-4947-b380-9c8b1fddebf0</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Earring_LoopSmall_Silver_Top.xml</path>
+		<guid>b1c312bf-bc3b-4a52-a15d-fe5564399388</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Bracelet_ChainRightSilver.xml</path>
+		<guid>e28e4564-e853-4876-8ee9-63754e28808c</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Shirt_CropTopTINT.xml</path>
+		<guid>cceb85fc-8c41-477e-9167-07513bad2dd9</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Shirt_CropTopNoArmTINT.xml</path>
+		<guid>06234961-aab3-4ce4-b5d2-2a7e5af074fb</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Skirt_Mini.xml</path>
+		<guid>9bb04028-4cb6-477b-b892-000f1dd54622</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/TightsBlackFishnet.xml</path>
+		<guid>e30e2622-0034-4895-8912-ed53dfafd3d0</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Shoes_BlackBoots.xml</path>
+		<guid>2717dfdb-49ef-401a-9715-c4487ce6abea</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Shoes_BlackBoots.xml</path>
+		<guid>2717dfdb-49ef-401a-9715-c4487ce6abea</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Shoes_Brown.xml</path>
+		<guid>c0a3a194-2ee9-4ce5-9d7a-aa1d5e031cea</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Shoes_Black.xml</path>
+		<guid>593bea3d-c127-4574-ac1e-2197dc56e486</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Corset_Red.xml</path>
+		<guid>8c3209b7-0920-4ad3-9d20-176604c8232f</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Necklace_Choker.xml</path>
+		<guid>5c4e5d70-62c6-45fd-804c-fbd50d30a5dd</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Hat_BunnyEarsBlack.xml</path>
+		<guid>235a5c5b-5ceb-4d87-998a-3811cea0d137</guid>
+	</files>	
 </fileGuidTable>

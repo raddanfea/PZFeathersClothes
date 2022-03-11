@@ -24,12 +24,12 @@ local clothing = {
   Hat = {
     -- "MyModule.MyNewHat",
   },
-  TankTop = {"Base.Corset",},     -- Remember,
+  TankTop = {},     -- Remember,
   Tshirt = {},      -- if
   Shirt = {},       -- your
   Socks = {"Base.ThighHighSocks",},       -- item
   Pants = {},       -- doesn't
-  Skirt = {"Base.Miniskirt",},       -- have
+  Skirt = {"Base.Microskirt",},       -- have
   Dress = {"Base.BunnySuit",},       -- a
   Shoes = {"Base.Shoes_ThighHighBoots",},       -- unique
   Eyes = {},        -- DisplayName

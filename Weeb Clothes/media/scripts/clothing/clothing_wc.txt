@@ -39,20 +39,11 @@ module Base
 		RunSpeedModifier = 2,
         WorldStaticModel = SpiffoTail_Ground,
     }
-	item Corset
-	{
-		Type = Clothing,
-		DisplayName = Corset,
-		ClothingItem = Corset,
-		BodyLocation = Underwear,
-		Icon = Swimsuit_White,
-		Weight = 0.1,
-	}
-	item Miniskirt
+	item Microskirt
     {
         Type = Clothing,
-        DisplayName = Miniskirt,
-        ClothingItem = Miniskirt,
+        DisplayName = Microskirt,
+        ClothingItem = Microskirt,
         BodyLocation = Skirt,
         Icon = SkirtGeneric,
         BloodLocation = ShortsShort,
