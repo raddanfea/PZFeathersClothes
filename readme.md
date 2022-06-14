@@ -1,4 +1,4 @@
-### I do not currently develop the mod anymore, but you can support it. 
+### This mod is in maintenance mode. 
 Feel free to create fixes and updates here.
 
 ### **Steam Location:**
