@@ -1,6 +1,9 @@
 require 'Items/ProceduralDistributions'
 
 --BedroomDresser
+table.insert(ProceduralDistributions.list.BedroomDresser.items, "Base.MicroSkirt");
+table.insert(ProceduralDistributions.list.BedroomDresser.items, 2);
+
 table.insert(ProceduralDistributions.list.BedroomDresser.items, "Base.VeryLongGloves");
 table.insert(ProceduralDistributions.list.BedroomDresser.items, 2);
 
@@ -23,6 +26,9 @@ table.insert(ProceduralDistributions.list.BedroomDresser.items, "Base.Hat_BunnyE
 table.insert(ProceduralDistributions.list.BedroomDresser.items, 0.1);
 
 --DresserGeneric
+table.insert(ProceduralDistributions.list.DresserGeneric.items, "Base.MicroSkirt");
+table.insert(ProceduralDistributions.list.DresserGeneric.items, 5);
+
 table.insert(ProceduralDistributions.list.DresserGeneric.items, "Base.VeryLongGloves");
 table.insert(ProceduralDistributions.list.DresserGeneric.items, 5);
 
@@ -45,6 +51,9 @@ table.insert(ProceduralDistributions.list.DresserGeneric.items, "Base.Hat_BunnyE
 table.insert(ProceduralDistributions.list.DresserGeneric.items, 0.1);
 
 --WardrobeWoman
+table.insert(ProceduralDistributions.list.WardrobeWoman.items, "Base.MicroSkirt");
+table.insert(ProceduralDistributions.list.WardrobeWoman.items, 4);
+
 table.insert(ProceduralDistributions.list.WardrobeWoman.items, "Base.VeryLongGloves");
 table.insert(ProceduralDistributions.list.WardrobeWoman.items, 4);
 
@@ -83,6 +92,9 @@ table.insert(ProceduralDistributions.list.ClothingStoresSocks.items, "Base.Thigh
 table.insert(ProceduralDistributions.list.ClothingStoresSocks.items, 8);
 
 --CrateClothesRandom
+table.insert(ProceduralDistributions.list.CrateClothesRandom.items, "Base.MicroSkirt");
+table.insert(ProceduralDistributions.list.CrateClothesRandom.items, 6);
+
 table.insert(ProceduralDistributions.list.CrateClothesRandom.items, "Base.VeryLongGloves");
 table.insert(ProceduralDistributions.list.CrateClothesRandom.items, 3);
 
@@ -109,6 +121,9 @@ table.insert(ProceduralDistributions.list.GymLockers.items, "Base.ThighHighSocks
 table.insert(ProceduralDistributions.list.GymLockers.items, 2);
 
 --LaundryLoad1
+table.insert(ProceduralDistributions.list.LaundryLoad1.items, "Base.MicroSkirt");
+table.insert(ProceduralDistributions.list.LaundryLoad1.items, 6);
+
 table.insert(ProceduralDistributions.list.LaundryLoad1.items, "Base.VeryLongGloves");
 table.insert(ProceduralDistributions.list.LaundryLoad1.items, 8);
 
@@ -128,6 +143,9 @@ table.insert(ProceduralDistributions.list.LaundryLoad1.items, "Base.Hat_BunnyEar
 table.insert(ProceduralDistributions.list.LaundryLoad1.items, 0.5);
 
 --LaundryLoad7
+table.insert(ProceduralDistributions.list.LaundryLoad7.items, "Base.MicroSkirt");
+table.insert(ProceduralDistributions.list.LaundryLoad7.items, 6);
+
 table.insert(ProceduralDistributions.list.LaundryLoad7.items, "Base.VeryLongGloves");
 table.insert(ProceduralDistributions.list.LaundryLoad7.items, 8);
 
@@ -147,6 +165,9 @@ table.insert(ProceduralDistributions.list.LaundryLoad7.items, "Base.Hat_BunnyEar
 table.insert(ProceduralDistributions.list.LaundryLoad7.items, 0.5);
 
 --LaundryLoad8
+table.insert(ProceduralDistributions.list.LaundryLoad8.items, "Base.MicroSkirt");
+table.insert(ProceduralDistributions.list.LaundryLoad8.items, 6);
+
 table.insert(ProceduralDistributions.list.LaundryLoad8.items, "Base.VeryLongGloves");
 table.insert(ProceduralDistributions.list.LaundryLoad8.items, 8);
 
@@ -166,6 +187,9 @@ table.insert(ProceduralDistributions.list.LaundryLoad8.items, "Base.Hat_BunnyEar
 table.insert(ProceduralDistributions.list.LaundryLoad8.items, 0.5);
 
 --Locker
+table.insert(ProceduralDistributions.list.Locker.items, "Base.MicroSkirt");
+table.insert(ProceduralDistributions.list.Locker.items, 0.5);
+
 table.insert(ProceduralDistributions.list.Locker.items, "Base.VeryLongGloves");
 table.insert(ProceduralDistributions.list.Locker.items, 0.2);
 
@@ -188,6 +212,9 @@ table.insert(ProceduralDistributions.list.Locker.items, "Base.Hat_BunnyEarsBlack
 table.insert(ProceduralDistributions.list.Locker.items, 0.01);
 
 --StripClubDressers
+table.insert(ProceduralDistributions.list.StripClubDressers.items, "Base.MicroSkirt");
+table.insert(ProceduralDistributions.list.StripClubDressers.items, 10);
+
 table.insert(ProceduralDistributions.list.StripClubDressers.items, "Base.VeryLongGloves");
 table.insert(ProceduralDistributions.list.StripClubDressers.items, 10);
 

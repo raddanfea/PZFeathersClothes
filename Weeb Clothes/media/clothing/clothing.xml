@@ -39,6 +39,9 @@
 		<m_items>
 			<itemGUID>cceb85fc-8c41-477e-9167-07513bad2dd9</itemGUID>
 		</m_items>
+		<!--MICROSKIRT-->
+		<m_items>
+			<itemGUID>86d7cb00-de1b-4201-8f48-736c547255bb</itemGUID>
 		<!--MINISKIRT-->
 		<m_items>
 			<itemGUID>9bb04028-4cb6-477b-b892-000f1dd54622</itemGUID>
@@ -152,6 +155,9 @@
 		<m_items>
 			<itemGUID>06234961-aab3-4ce4-b5d2-2a7e5af074fb</itemGUID>
 		</m_items>
+		<!--MICROSKIRT-->
+		<m_items>
+			<itemGUID>86d7cb00-de1b-4201-8f48-736c547255bb</itemGUID>
 		<!--MINISKIRT-->
 		<m_items>
 			<itemGUID>9bb04028-4cb6-477b-b892-000f1dd54622</itemGUID>
@@ -286,7 +292,7 @@
 	</m_FemaleOutfits>
 	<m_FemaleOutfits>
 		<m_Name>FeatherBunny</m_Name>
-		<m_Guid>featherc-021d-458e-9d7a-395026ce2376</m_Guid>
+		<m_Guid>0a3a7ee4-1dab-40b6-b94c-a8d80f2d2ae4</m_Guid>
 		<m_Pants>false</m_Pants>
 		<m_Top>false</m_Top>
 		<!--BunnySuit-->

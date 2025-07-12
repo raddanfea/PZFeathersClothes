@@ -1,6 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <fileGuidTable>
 	<!--FEATHER FILES-->
+	<files>
+	<path>media/clothing/clothingItems/Microskirt.xml</path>
+	<guid>86d7cb00-de1b-4201-8f48-736c547255bb</guid>
+	</files>
 	<files>
 	<path>media/clothing/clothingItems/BunnySuit.xml</path>
 	<guid>4504429a-f78a-4d1c-b2ff-cac01a2d434b</guid>
